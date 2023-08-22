@@ -1,0 +1,58 @@
+#ussr{
+    position: fixed;
+    background-color: aqua;
+    color: white;
+    top: 0;
+    width: 100%;
+}
+
+#ussr + p{
+    margin-top: 30px;
+}
+
+#empire{
+    position: sticky;
+    background-color: sandybrown;
+    color: black;
+    top: 30px;
+}
+
+#adlof{
+    position: relative;
+    width: 300px;
+}
+
+#adlof img{
+    width: 100%;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+#adlof button{
+    position: absolute;
+    top: 0;
+    right:0;
+}
+#chat{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#his{
+    position: relative;
+    width: 300px;
+}
+
+#his img{
+    width: 100%;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+#his button{
+    position: absolute;
+    top: 0;
+    right: 0;
+}

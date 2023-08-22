@@ -1,0 +1,21 @@
+#nazi{
+    color: blue;
+}
+.reich{
+    color: crimson;
+}
+div > label{
+    color:aqua
+}
+div label{
+    color: blueviolet;
+}
+*{
+    color: darkorange;
+}
+.furher+small{
+    color: brown;
+}
+.stuka~small{
+    color: darkgoldenrod;
+}

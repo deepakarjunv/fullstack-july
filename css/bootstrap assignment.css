@@ -1,0 +1,64 @@
+.adlof{
+    text-decoration: none;
+}
+.james{
+    border: none;
+    background-color: rgba(116, 15, 214, 0.9);
+}
+.german{
+    color: black;
+}
+.poland{
+    border: 1px solid white;
+    color: white;
+    background-color: blue;
+}
+.russia{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    width: 100%;
+    position: fixed;
+}
+.india{
+    margin-left: 30px;
+}
+.yemen{
+    margin-left: 20px;
+}
+.china{
+    margin-left: 80px;
+    word-spacing: 10px;
+}
+.japan{
+    width: 400px;
+}
+.italy{
+    border: 1px solid white;
+    color: white;
+    background-color: blue;
+}
+.italy:hover{
+    background-color: white;
+    color: blue;
+}
+.libya{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: space-evenly;
+    padding-top: 120px;
+    margin-left: 30px;
+}
+.taiwan{
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.france{
+    width: 400px;
+}
+.dutch{
+    margin-left: 5px;
+}

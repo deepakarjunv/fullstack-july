@@ -1,0 +1,92 @@
+body{
+    background-color: ghostwhite;
+}
+.fri{
+    display: grid;
+    grid-template-columns: 90% 10%;
+    justify-content: space-evenly;
+}
+.wagner{
+    border: 2px solid rgb(232, 232, 232);
+    margin-top: 10px;
+}
+.pg{
+    border: none;
+}
+#ug{
+    padding-left: 10px;
+}
+.pg{
+    height: 20px;
+    margin-left: 20px;
+}
+#kg{
+    border: none;
+    background-color: orange;
+    color: white;
+    height: 20px;
+}
+.chu{
+    width: 20px;
+    padding-right: 40px;
+}
+.jam{
+    word-spacing: 10px;
+}
+.yes{
+    display: grid;
+    grid-template-columns: 90% 10%;
+    justify-content: space-evenly;
+}
+#ger{
+    font-weight: 100;
+    padding-right: 10px;
+}
+.fin{
+    border: 1px solid white;
+    width: 1300px;
+    height: 500px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 3%;
+}
+.ily{
+    border: 1px solid ghostwhite;
+    width: 500px;
+    height: 400px;
+    margin-top: 45px;
+    margin-left: 350px;
+}
+.ump{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    margin-top: 0;
+    height: 40px;
+    height: 70px;
+    padding-top: 40px;
+}
+.url{
+    height: 25px;
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.kaz{
+    height: 25px;
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 20px;  
+}
+.rus{
+    height: 25px;
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: white;
+    background-color: blueviolet;  
+    border: none;
+}
+.yem{
+    text-align: center;
+}

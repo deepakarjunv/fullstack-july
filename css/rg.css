@@ -1,0 +1,7 @@
+.li{
+    width: 80%;
+}
+.li:hover{
+    width: 100%;
+    background-color: aqua;
+}
