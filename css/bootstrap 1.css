@@ -1,0 +1,287 @@
+.jun{
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+.uk{
+    text-decoration: none;
+}
+.uk:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.india{
+    word-spacing: 5px;
+}
+.german{
+    color: white;
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.poland{
+    width: 400px;
+}
+.japan{
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 90px;
+}
+.italy{
+    border: 1px solid white;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+.italy:hover{
+    background-color: white;
+    color: blue;
+}
+.oman{
+    width: 500px;
+}
+.china{
+    margin-top: 50px;
+}
+.ukriane{
+    font-style: italic;
+}
+.nepal{
+    background-color: blue;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.nepal:hover{
+    background-color: lightskyblue;
+}
+.turkey{
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 70px;
+    width: 100%;
+    height: 130px;   
+}
+.austria{
+    padding-top: 30px;
+    text-align: center;
+}
+.finland{
+    text-align: center;
+    color: gainsboro;
+}
+.kaz{
+    background-color: ghostwhite;
+}
+.hungary{
+    text-align: center;
+}
+.sudan{
+    margin-left: 200px;
+}
+.paris{
+    text-align: center;
+}
+.tokyo{
+    text-align: center;
+}
+.korea{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px; 
+}
+.taipei{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px; 
+    margin-left: 30px; 
+    margin-top: 30px;
+}
+.korea:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.korea:hover i{
+    background-color: blue;
+}
+.busan{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px; 
+}
+.busan:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.busan:hover i{
+    background-color: #ffbb00;
+}
+.gangnam{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px; 
+}
+.gangnam:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.gangnam:hover i{
+    background-color: #ff000d;
+}
+.joseon{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.joseon:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.joseon:hover i{
+    background-color: #ffdd00;
+}
+.silla{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.silla:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.silla:hover i{
+    background-color: #ff7300;
+}
+.ireland{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.ireland:hover{
+    filter: drop-shadow(2px 2px 3px black);
+}
+.ireland:hover i{
+    background-color: #00ffb3;
+}
+.hamburg{
+    background-color: blue;
+    height: 3px;
+    width: 30px;
+    top: 0;
+    margin-left: 49%;
+}
+.berlin{
+    background-color: white;
+    height: 3px;
+    width: 35px;
+    top: 0;
+    margin-left: 49%;
+}
+.delhi{
+    width: 100%;
+}
+.test {
+    position: relative;
+    padding-bottom: 9%;
+    background-color: #f4f2f8;
+}
+
+.one {
+    position: absolute;
+    left: 12%;
+    top: 64%;
+    width: 20% !important;
+}
+
+.two {
+    position: absolute;
+    left: 39%;
+    top: 64%;
+    width: 20% !important;
+}
+
+.three {
+    position: absolute;
+    left: 65%;
+    top: 64%;
+    width: 20% !important;
+}
+.chennai{
+    text-decoration: none;
+    color: black;
+}
+.chennai:hover{
+    background-color: blue;
+    color: white;
+}
+.kochi{
+    position: relative;
+}
+.munnar{
+    display: none;
+}
+.kochi:hover .munnar{
+    display: block;
+    position: absolute;
+    background-color: blue;
+    top: 0;
+}
+.ooty{
+    text-decoration: none;
+}
+.faq {
+    background: linear-gradient(42deg, #5846f9 0%, #7b27d8 100%)
+}
+
+.bg2 {
+    background-image: url(../images/han.png);
+    background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url(../images/han.png) center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ser {
+    background-color: #f4f2f8;
+}
+.cont {
+    background-color: #f4f2f8;
+}
+.normandy{
+    text-decoration: none;
+    color: black;
+}
+.normandy:hover{
+    color: blue;
+}
+.tripoli:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.tripoli{
+    color: white;
+}
